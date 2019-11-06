@@ -20,7 +20,7 @@ You'll be building a simple component for managing communications with our custo
 
 * We prefer Java with Spring Boot, building with Maven -- or Go with go-kit, building with Make ourselves, but please choose the framework within the two languages you are most comfortable with currently to approach the challenge 
 * Our agents can create, read, update, and delete templates
-* Templated messages can be sent over a variety of channels, e.g. SMS, E-Mail, Push Notification, Carrier Pidgeon, etc.
+* Templated messages can be sent over a variety of channels, e.g. SMS, E-Mail, Push Notification, Carrier Pigeon, etc.
 * We don't expect the channels to work and you don't need to implement the consumer services, behaviour for sending over a channel from the templating service can be faked and simply log the fact
 * You do not need to worry about authentication and authorization of agents or systems for now
 * You're free to use as many third party libraries that you see fit
